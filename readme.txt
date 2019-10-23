@@ -4,4 +4,4 @@ git has a mutable index called stage.
 added a line.
 git tracks change,
 IN DEV
-fasjkfhjklqrwhe
+creating a new branch is quick and simple
